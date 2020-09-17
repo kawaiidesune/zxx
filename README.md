@@ -1,4 +1,9 @@
 # zxx
+## 1. Install on your computer
+
+## 2. Use as a web font
+
+## 3. The original Read Me.rtf file.
 The ZXX typeface. The site it was on, z-x-x.org, is dead. This readme was adapted from the Read Me.rtf file originally included with the font.
 
 The font was developed by [Sang Mun](http://www.sang-mun.com).
