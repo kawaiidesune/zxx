@@ -1,0 +1,13 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "ZXX-Sans";
+  src: url("./fonts/ZXXSans.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/ZXXSans.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/ZXXSans.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/ZXXSans.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/ZXXSans.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/ZXXSans.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/ZXXSans.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}

@@ -1,0 +1,112 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "ZXX-Camo";
+  src: url("./fonts/ZXXCamo.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/ZXXCamo.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/ZXXCamo.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/ZXXCamo.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/ZXXCamo.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/ZXXCamo.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/ZXXCamo.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "ZXX-Bold";
+  src: url("./fonts/ZXXBold.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/ZXXBold.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/ZXXBold.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/ZXXBold.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/ZXXBold.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/ZXXBold.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/ZXXBold.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "ZXX-False";
+  src: url("./fonts/ZXXFalse.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/ZXXFalse.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/ZXXFalse.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/ZXXFalse.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/ZXXFalse.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/ZXXFalse.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/ZXXFalse.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "ZXX-Noise";
+  src: url("./fonts/ZXXNoise.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/ZXXNoise.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/ZXXNoise.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/ZXXNoise.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/ZXXNoise.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/ZXXNoise.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/ZXXNoise.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "ZXX-Sans";
+  src: url("./fonts/ZXXSans.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/ZXXSans.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/ZXXSans.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/ZXXSans.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/ZXXSans.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/ZXXSans.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/ZXXSans.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "ZXX-Xed";
+  src: url("./fonts/ZXXXed.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/ZXXXed.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/ZXXXed.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/ZXXXed.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/ZXXXed.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/ZXXXed.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/ZXXXed.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  font-family: "ZXX-Sans", monospace;
+}
+strong {
+  font-family: "ZXX-Bold", monospace;
+}
+
+.navbar-brand {
+  font-family: "ZXX-Bold", monospace;
+}
+
+.display-1, .display-2, .display-3, .display-4, .display-5, .display-6 {
+  font-family: "ZXX-Noise", monospace;
+}
+.display-1 strong, .display-2 strong, .display-3 strong, .display-4 strong, .display-5 strong, .display-6 strong {
+  font-family: "ZXX-Bold", monospace;
+}
+.bold {
+  font-family: "ZXX-Bold", monospace !important;
+}
+.bold .display-1, .bold .display-2, .bold .display-3, .bold .display-4, .bold .display-5, .bold .display-6, .bold .lead, .bold .btn {
+  font-family: "ZXX-Bold", monospace !important;
+}
+.camo {
+  font-family: "ZXX-Camo", monospace !important;
+}
+.false {
+  font-family: "ZXX-False", monospace !important;
+}
+.noise {
+  font-family: "ZXX-Noise", monospace !important;
+}
+.sans {
+  font-family: "ZXX-Sans", monospace !important;
+}
+.xed {
+  font-family: "ZXX-Xed", monospace !important;
+}
