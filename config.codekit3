@@ -101,24 +101,6 @@
 		"oAP": "/downloads/ZXX-Sans.zip",
 		"oF": 0
 		},
-	"/downloads/ZXX-Sans/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/downloads/ZXX-Sans/index.html",
-		"oF": 0
-		},
-	"/downloads/ZXX-Sans/style.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/downloads/ZXX-Sans/style-min.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"/downloads/ZXX-Xed.zip": {
 		"cB": 0,
 		"ft": 8192,
@@ -126,24 +108,6 @@
 		"oA": 0,
 		"oAP": "/downloads/ZXX-Xed.zip",
 		"oF": 0
-		},
-	"/downloads/ZXX-Xed/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/downloads/ZXX-Xed/index.html",
-		"oF": 0
-		},
-	"/downloads/ZXX-Xed/style.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/downloads/ZXX-Xed/style-min.css",
-		"oF": 0,
-		"oS": 3
 		},
 	"/false.html": {
 		"cB": 0,
@@ -477,25 +441,6 @@
 		"oAP": "/readme.html",
 		"oF": 0
 		},
-	"/README.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/README.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
 	"/sans.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -510,54 +455,6 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/xed.html",
-		"oF": 0
-		},
-	"/ZXX Bold.otf": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/ZXX Bold.otf",
-		"oF": 0
-		},
-	"/ZXX Camo.otf": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/ZXX Camo.otf",
-		"oF": 0
-		},
-	"/ZXX False.otf": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/ZXX False.otf",
-		"oF": 0
-		},
-	"/ZXX Noise.otf": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/ZXX Noise.otf",
-		"oF": 0
-		},
-	"/ZXX Sans.otf": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/ZXX Sans.otf",
-		"oF": 0
-		},
-	"/ZXX Xed.otf": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/ZXX Xed.otf",
 		"oF": 0
 		}
 	},
